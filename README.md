@@ -14,7 +14,7 @@ Principal Component Analysis (PCA) is a powerful technique used in data analysis
 
 ## Usage
 
-To run the tutorial, just clone the repository and run the explanatory notebook.
+To run the tutorial, just clone the repository and run the explanatory notebook. Please note that the images in the markdown are not shown properly in the guthub repo and can be properly viewed only on cloning the repo.
 
 ## Dependencies
 
