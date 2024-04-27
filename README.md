@@ -29,4 +29,10 @@ To run the tutorial, just clone the repository and run the explanatory notebook.
 
 ## References
 
-[Catchy word or short word](https://towardsdatascience.com/dimensionality-reduction-of-a-color-photo-splitting-into-rgb-channels-using-pca-algorithm-in-python-ba01580a1118)
+- [PCA (Principal Component Analysis)](https://medium.com/@parthdholakiya180/pca-principal-component-analysis-93ae4aafa310)
+
+- [Image Compression Using Principal Component Analysis (PCA)](https://www.enjoyalgorithms.com/blog/image-compression-using-pca)
+
+- [RGB Color Image Compression Using Principal Component Analysis](https://towardsdatascience.com/rgb-color-image-compression-using-principal-component-analysis-fce3f48dfdd0)
+
+- [A quick guide to color image compression using PCA in python](https://towardsdatascience.com/dimensionality-reduction-of-a-color-photo-splitting-into-rgb-channels-using-pca-algorithm-in-python-ba01580a1118)
