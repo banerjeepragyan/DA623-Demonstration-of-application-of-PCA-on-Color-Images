@@ -26,3 +26,7 @@ To run the tutorial, just clone the repository and run the explanatory notebook.
 - scikit-learn
 - cv2
 - ipywidgets
+
+## References
+
+[Catchy word or short word](https://towardsdatascience.com/dimensionality-reduction-of-a-color-photo-splitting-into-rgb-channels-using-pca-algorithm-in-python-ba01580a1118)
